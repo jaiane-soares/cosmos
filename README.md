@@ -6,6 +6,20 @@ The game combines classic *Shoot 'em up* mechanics with deep philosophical narra
 
 ---
 
+> <details>
+> <summary> Veja aqui o jogo e as fases</summary>
+> ![img1]()
+> 
+> ![img1]()
+>  
+> ![img1]()
+>  
+> ![img1]()
+>  
+> ![img1]()
+>
+> </details>
+
 ##  Project requirements (UNINTER)
 
 This project strictly adheres to all evaluation criteria required by the institution:
