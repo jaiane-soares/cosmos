@@ -10,6 +10,7 @@ LARGURA, ALTURA = 800, 600
 tela = pygame.display.set_mode((LARGURA, ALTURA))
 pygame.display.set_caption("Cosmos: O Pálido Ponto Azul")
 
+
 # Cores 
 PRETO = (3, 3, 5)             # Espaço profundo (quase preto)
 BRANCO = (240, 240, 245)       # Estrelas brilhantes
