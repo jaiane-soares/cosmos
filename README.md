@@ -8,15 +8,16 @@ The game combines classic *Shoot 'em up* mechanics with deep philosophical narra
 
 > <details>
 > <summary> Veja aqui o jogo e as fases</summary>
-> ![img1]()
 > 
-> ![img1]()
+> ![img1](https://github.com/jaiane-soares/cosmos/blob/main/cosmosUm.png)
+> 
+> ![img1](https://github.com/jaiane-soares/cosmos/blob/main/cosmosDois.png)
 >  
-> ![img1]()
+> ![img1](https://github.com/jaiane-soares/cosmos/blob/main/cosmosTres.png)
 >  
-> ![img1]()
+> ![img1](https://github.com/jaiane-soares/cosmos/blob/main/CosmosQuatro.png)
 >  
-> ![img1]()
+> ![img1](https://github.com/jaiane-soares/cosmos/blob/main/CosmosCinco.png)
 >
 > </details>
 
